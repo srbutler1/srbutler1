@@ -2,7 +2,7 @@
 
 🎓 Financial Analytics & Economics student at the University of Arkansas | 4.0 GPA  
 🤖 Founder & President of AI Foundry at UArk  
-📊 Passionate about data-driven decision making and AI applications in finance
+📊 Passionate about data-driven decision making and AI applications in finance and economics
 
 ## What I'm Currently Working On
 
